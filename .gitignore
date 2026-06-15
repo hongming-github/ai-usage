@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# py2app
+*.app
+
+# Local Claude Code settings (personal, not for the repo)
+.claude/settings.local.json
+
+# Logs
+*.log
