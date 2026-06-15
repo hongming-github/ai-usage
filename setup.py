@@ -25,6 +25,7 @@ OPTIONS = {
 setup(
     app=APP,
     name="AI Usage",
+    python_requires=">=3.10",
     options={"py2app": OPTIONS},
     setup_requires=["py2app"],
 )
