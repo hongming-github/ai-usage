@@ -50,7 +50,7 @@ Claude Safe Storage key") — click **Always Allow**.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/ai-usage.git
+git clone https://github.com/hongming-github/ai-usage.git
 cd ai-usage
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
